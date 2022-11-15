@@ -1,0 +1,252 @@
+{
+  "headerDescription1": {
+    "firstText": "YOU'VE EARNED DRAWING ENTRIES",
+    "secondText": "YOU'RE EARNING A LEVEL-UP PRIZE!"
+  },
+  "headerDescription2": "",
+  "headerImage": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/team-casino.png?alt=media&token=2cfbc6ee-1139-4d85-a33a-9c2a662bd5c4",
+
+  "headerButton": {
+    "text": "VIEW PRIZES"
+  },
+
+  "home": {
+    "text1": {
+      "text": "WELCOME, KIOSK",
+      "color": "rgb(60,115,179)"
+    },
+    "text2": {
+      "text": "LEARN AND EARN EVERYDAY FOR ENTRIES AND PRIZES!",
+      "color": "rgb(60,115,179)"
+    },
+    "games": [
+      {
+        "title": "JIGSAW PUZZLE",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/jigsaw.png?alt=media&token=74317422-9f10-4e9a-8739-d963e46a5235"
+      },
+      {
+        "title": "DAILY QUIZ",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/jigsaw.png?alt=media&token=74317422-9f10-4e9a-8739-d963e46a5235"
+      },
+      {
+        "title": "WORD QUIZ",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/jigsaw.png?alt=media&token=74317422-9f10-4e9a-8739-d963e46a5235"
+      },
+      {
+        "title": "MEMORY MATCH",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/jigsaw.png?alt=media&token=74317422-9f10-4e9a-8739-d963e46a5235"
+      }
+    ],
+    "firstSection": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/placeholder.png?alt=media&token=8cbaa0ff-de91-4d86-8631-2d44e19610f7",
+      "title": {
+        "text": "RESOURCE CENTER",
+        "color": "black"
+      },
+      "buttonText": "LEARN MORE"
+    },
+    "secondSection": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/placeholder.png?alt=media&token=8cbaa0ff-de91-4d86-8631-2d44e19610f7",
+      "title": {
+        "text": "RESOURCE CENTER",
+        "color": "black"
+      },
+      "buttonText": "WATCH & LEARN"
+    },
+    "quote": {
+      "text": "WE ARE COMMITTED TO A SAFE AND FUN ENVIRONMENT FOR YOU AND OUR CUSTOMERS. THANKS FOR EVERYTHING YOU DO TO MAKE THE BEST!",
+      "color": "rgb(48,94,177)"
+    },
+    "quoteBy": {
+      "text": "Your Leadership Team",
+      "color": "rgb(66,118,188)"
+    }
+  },
+
+  "footer": {
+    "companyLogo": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/footer.png?alt=media&token=63396744-ae6a-4cdc-8ca3-2e065507dc70",
+    "companyName": {
+      "text": "MORONGO CASINO RESORT & SPA",
+      "color": "rgb(210,155,41)"
+    },
+    "address1": {
+      "text": "49500 Seminole Dr.",
+      "color": "white"
+    },
+    "address2": {
+      "text": "Cabazon, California 92230 Seminole Dr.",
+      "color": "white"
+    },
+    "email": {
+      "text": "morongo@morongo.com",
+      "color": "whote"
+    },
+    "link1": {
+      "color": "rgb(34,72,142)",
+      "text": "TERMS OF USE"
+    },
+    "link2": {
+      "color": "rgb(34,72,142)",
+      "text": "RESPONSIBLE GAMING"
+    },
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/team-casino.png?alt=media&token=2cfbc6ee-1139-4d85-a33a-9c2a662bd5c4"
+  },
+
+  "prizes": {
+    "title": {
+      "text": "PRIZES",
+      "color": "rgb(60,115,179)"
+    },
+    "subtitle": {
+      "text": "Play free games online to earn prizes and entries into the drawings!",
+      "color": "black"
+    },
+    "level": [
+      {
+        "levelNum": 1,
+        "levelTitle": "$5 PINK Coffee",
+        "levelDraw": "(160,000 Drawing Entries Earned)"
+      },
+      {
+        "levelNum": 2,
+        "levelTitle": "$10 PINK Coffee",
+        "levelDraw": "(200,000 Drawing Entries Earned)"
+      }
+    ],
+    "levelColor": "rgb(245,179,47)",
+    "button1Text": "LEVEL-UP PRIZES",
+    "button2Text": "DRAWING PRIZES",
+    "button3Text": "MY PRIZES",
+    "banner": {
+      "imageBackground": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/fireworks.jpg?alt=media&token=a78f9475-1240-419b-9369-4b5113762082",
+      "text": "LEVEL-UP PRIZES",
+      "color": "",
+      "subBanner": {
+        "backgroundColor": "black",
+        "text1": {
+          "text": "YOUR NEXT PRIZE",
+          "color": "white"
+        },
+        "text2": {
+          "text": "LEVEL 1",
+          "color": "rgb(245,179,47)"
+        },
+        "text3": {
+          "text": "Just earn an additional 1,500 Drawing Entries to win this prize!",
+          "color": "white"
+        }
+      }
+    },
+    "voucher": {
+      "text": "Vouchers are available for download via the MY PRIZES page after you have accumulated the drawing entries needed for each prize. The amount of drawing entries needed for each prize is baed on your total online play (cumulative).",
+      "color": "black"
+    }
+  },
+
+  "prizes1": {
+    "banner1": {
+      "image1": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/fireworks.jpg?alt=media&token=a78f9475-1240-419b-9369-4b5113762082",
+      "text1": "WEEKLY VIRTUAL DRAWINGS",
+      "textColor": "rgb(245,179,47)"
+    },
+    "banner2": {
+      "backgroundColor": "black",
+      "text1": "FRIDAYS | 12 PM",
+      "text2": "Play the free online games on Team Morongo and check."
+    },
+
+    "table1": {
+      "date": "OCTOBER 23, 2020",
+      "prizes": ["A", "B", "C", "D", "E", "A", "B", "C", "D", "E"]
+    },
+    "tableList": [
+      {
+        "date": "OCTOBER 24, 2020",
+        "prizes": [
+          "ASDASD",
+          "Basdasd",
+          "Casdasd",
+          "D",
+          "E",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "date": "OCTOBER 25, 2020",
+        "prizes": ["Aasdasd", "Basdasd", "C", "D", "E", "A", "B", "C", "D", "E"]
+      },
+      {
+        "date": "OCTOBER 26, 2020",
+        "prizes": ["A", "B", "C", "D", "E", "A", "B", "C", "Dasdfasf", "E"]
+      },
+      {
+        "date": "OCTOBER 27, 2020",
+        "prizes": [
+          "Aasdsdf",
+          "B",
+          "C",
+          "D",
+          "E",
+          "A",
+          "B",
+          "Casdfasdf",
+          "D",
+          "E"
+        ]
+      }
+    ],
+
+    "banner3": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/android-chat-ef593.appspot.com/o/fireworks.jpg?alt=media&token=a78f9475-1240-419b-9369-4b5113762082",
+      "text": "MONTHLY GRAND PRIZE DRAWINGS",
+      "color": "white"
+    },
+    "banner4": {
+      "backgroundColor": "black",
+      "text1": "LAST FRIDAY OF THE MONTH | 12 PM",
+      "text1Color": "rgb(245,179,47)",
+      "text2": "Play the free online games on Team Morongo and check your email to earn chances to win prizes in the monthly grand prize drawings.",
+      "text2Color": "white",
+      "text3": "Winners will be posted outside of Human Resources and will have seven (7) days to claim their prizes",
+      "text3Color": "white"
+    },
+
+    "banner5": {
+      "backgroundColor": "black",
+      "text1": " HOW TO EARN ENTRIES",
+      "text1Color": "rgb(245,179,47)",
+      "text2": "    Play fun free games on the Team Morongo website daily. You may also receive additional drawing entries through email",
+      "text2Color": "white",
+      "text3": "DRAWING DETAILS",
+      "text3Color": "rgb(245,179,47)",
+      "text4": "Team Members who earned drawing entries online on Team Morongo and through email will be eligible to win prizes in the Weekly and Monthly Drawings. Prizes may be collected at Human Resources during normal hours of operation within seven (7) days of being announced",
+      "text4Color": "white"
+    }
+  },
+
+  "resources": {
+    "title1": "TEAM MORONGO RESOURCE CENTER",
+    "title1Color": "rgb(60,115,179)",
+    "subtitle": "Here you will find important and usefull items to be \"Best of the Best\" in all you daily efforts.",
+    "subtitleColor": "black",
+    "files1": [
+      {"id": 1, "title": "EMPLOYEE HANDBOOK"},
+      {"id": 2, "title": "COVID MCRS SPECIAL TRAINING"},
+      {"id": 3, "title": "BLUESTONE"},
+      {"id": 4, "title": "MORONGO COVID SAFETY POSTERS"}
+    ],
+    "files2": [
+      {"id": 1, "title": "STOP THE SPREAD OF GERMS"},
+      {"id": 2, "title": "PREVENT THE SPREAD OF COVID-19"},
+      {"id": 3, "title": "CLOTH FACE COVERING SAFETY"},
+      {"id": 4, "title": "5 SAFETY STEPS TO STAY HEALTHY"},
+      {"id": 5, "title": "WHAT YOU SHOULD KNOW ABOUT COVID-19"}
+    ],
+    "title2": "HELPFUL COVID FLYERS FROM THE CDC",
+    "title2Color": "rgb(60,115,179)"
+  }
+}

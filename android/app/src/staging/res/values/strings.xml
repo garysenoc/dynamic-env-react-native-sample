@@ -1,0 +1,7 @@
+<resources>
+   <string-array name="export_variables">
+        <item>TEST_CONFIG_FIELD</item>
+    </string-array>
+    <string name="TEST_CONFIG_FIELD">http://mobile.cbcl7.com/teamMorongo.json</string>
+    <string name="app_name">Morongo</string>
+</resources>
